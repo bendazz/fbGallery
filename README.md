@@ -1,4 +1,4 @@
-# Data Science App Gallery
+# Football Analytics Gallery
 
 A minimal static gallery to showcase student-built web apps by topic. Left sidebar lists topics and apps; the selected app loads in an iframe on the right.
 
